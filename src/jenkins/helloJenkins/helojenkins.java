@@ -16,7 +16,7 @@ public class helojenkins {
      System.out.println("Java...!");  System.out.println("There is a change to code");
      System.out.println("Java...!");  System.out.println("There is a change to code");
      System.out.println("Java...!");  System.out.println("There is a change to code");
-     System.out.prntln("Java...!"); 
+     System.out.println("Java...!"); 
      
 	}
 
