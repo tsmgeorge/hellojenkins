@@ -18,7 +18,7 @@
     </resources>
     <testResources>
       <testResource>
-        <directory>src\jenkins\helloJenkins</directory>
+        <directory>src\test\helloJenkins</directory>
       </testResource>
     </testResources>
   </build>
