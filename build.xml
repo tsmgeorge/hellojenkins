@@ -3,4 +3,7 @@
   <groupId>tsmgeorge.hellojenkins</groupId>
    <artifactId>hellojenkins</artifactId>
    <version>0.0.1-SNAPSHOT</version>
- </project>
+   <build>
+   	<sourceDirectory>src\jenkins\helloJenkins</sourceDirectory></build>
+
+</project>
