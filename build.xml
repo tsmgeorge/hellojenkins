@@ -3,7 +3,31 @@
   <groupId>tsmgeorge.hellojenkins</groupId>
    <artifactId>hellojenkins</artifactId>
    <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
    <build>
    	<sourceDirectory>src\jenkins\helloJenkins</sourceDirectory></build>
 
 </project>
+=======
+
+  <build>
+    <directory>target</directory>
+    <outputDirectory>target/classes</outputDirectory>
+    <finalName>${artifactId}-${version}</finalName>
+    <testOutputDirectory>target/test-classes</testOutputDirectory>
+    <sourceDirectory>src\jenkins\helloJenkins</sourceDirectory>
+    
+    <resources>
+      <resource>
+        <directory>src\jenkins\helloJenkins</directory>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <directory>src\test\helloJenkins</directory>
+      </testResource>
+    </testResources>
+  </build>
+  
+ </project>
+>>>>>>> 8bfd9511cacf8e029391618a13c88d662f615f9e
