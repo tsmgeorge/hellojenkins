@@ -1,11 +1,9 @@
- <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
    <modelVersion>4.0.0</modelVersion>
   <groupId>tsmgeorge.hellojenkins</groupId>
    <artifactId>hellojenkins</artifactId>
    <version>0.0.1-SNAPSHOT</version>
 
-   <build>
-   	<sourceDirectory>src\jenkins\helloJenkins</sourceDirectory></build>
 
   <build>
     <directory>target</directory>
@@ -27,4 +25,3 @@
   </build>
   
  </project>
->>>>>>> 8bfd9511cacf8e029391618a13c88d662f615f9e
