@@ -4,8 +4,6 @@
    <artifactId>hellojenkins</artifactId>
    <version>0.0.1-SNAPSHOT</version>
 
-   <build>
-   	<sourceDirectory>src\jenkins\helloJenkins</sourceDirectory></build>
 
   <build>
     <directory>target</directory>
@@ -27,4 +25,3 @@
   </build>
   
  </project>
->>>>>>> 8bfd9511cacf8e029391618a13c88d662f615f9e
