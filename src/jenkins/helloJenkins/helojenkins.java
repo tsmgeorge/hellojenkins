@@ -10,7 +10,7 @@ public class helojenkins {
      System.out.println("Hello jenkins!!!");	
      
     // System.out.println("Hello jenkins!!!");
-<<<<<<< HEAD
+
  /*    System.out.println("There is a change to code");
 =======
    /*
@@ -25,11 +25,7 @@ public class helojenkins {
 <<<<<<< HEAD
     */
      System.out.println("i change this in the code on eclpipse");
-     
-=======
-     */
->>>>>>> 7ccd848cfeec5193d8eae1911e9128e6a2faf63a
-     
+
      
      System.out.println("Java...!...Finall"); 
      System.out.println("i change the code from github"); 
