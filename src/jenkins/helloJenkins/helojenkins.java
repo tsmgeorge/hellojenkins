@@ -10,6 +10,7 @@ public class helojenkins {
      System.out.println("Hello jenkins!!!");	
      
     // System.out.println("Hello jenkins!!!");
+   /*
      System.out.println("There is a change to code");
      System.out.println("Java...!"); 
      System.out.println("There is a change to code");
@@ -17,7 +18,11 @@ public class helojenkins {
      System.out.println("change the code in repo!");  System.out.println("There is a change to code");
      System.out.println("Java...!");  System.out.println("There is a change to code");
      System.out.println("Java...!...Finall"); 
+     */
      
+     
+     System.out.println("Java...!...Finall"); 
+     System.out.println("i change the code from github"); 
 	}
 
 }
