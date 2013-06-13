@@ -3,7 +3,7 @@
   <groupId>tsmgeorge.hellojenkins</groupId>
    <artifactId>hellojenkins</artifactId>
    <version>0.0.1-SNAPSHOT</version>
-
+    <packaging>jar</packaging>
 
   <build>
     <directory>target</directory>
